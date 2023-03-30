@@ -1,0 +1,11 @@
+.page {
+  background-color: #ffffff;
+  font-family: 'Montserrat', 'Helvetica', sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  color: #000000;
+  min-height: 100%;
+  margin: 0 auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
