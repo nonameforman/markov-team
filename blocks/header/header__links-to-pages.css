@@ -1,0 +1,6 @@
+.header__links-to-pages {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 28px 62px 22px 77px;
+}

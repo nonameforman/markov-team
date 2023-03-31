@@ -1,0 +1,16 @@
+.header__button-icon-quantity {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  background-color: #fff;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  position: absolute;
+  right: -15px;
+  bottom: 3px;
+}

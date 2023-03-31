@@ -3,3 +3,28 @@
 @import url(../vendor/fonts/_montserrat/fonts_montserrat.css);
 
 @import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/header/header__contacts.css);
+@import url(../blocks/header/header__contacts-work.css);
+@import url(../blocks/header/header__contacts-phone.css);
+@import url(../blocks/header/header__contacts-bold-text.css);
+@import url(../blocks/header/header__contacts-callback.css);
+@import url(../blocks/header/header__contacts-mail.css);
+
+@import url(../blocks/header/header__links-to-pages.css);
+@import url(../blocks/header/header__nav.css);
+@import url(../blocks/header/header__nav-link.css);
+@import url(../blocks/header/header__lang.css);
+@import url(../blocks/header/header__swich-lang.css);
+@import url(../blocks/header/header__phone.css);
+
+@import url(../blocks/header/header__links-to-categories.css);
+@import url(../blocks/header/header__categories.css);
+@import url(../blocks/header/header__category.css);
+@import url(../blocks/header/header__buttons.css);
+@import url(../blocks/header/header__button.css);
+@import url(../blocks/header/header__button-icon.css);
+@import url(../blocks/header/header__button-icon-trash.css);
+@import url(../blocks/header/header__button-icon-quantity.css);

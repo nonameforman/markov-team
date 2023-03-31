@@ -1,0 +1,7 @@
+.header__links-to-categories {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 62px 55px 119px;
+  background-color: #fff;
+}
