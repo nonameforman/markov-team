@@ -1,0 +1,15 @@
+.swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 63px 182px 96px 119px;
+  box-sizing: border-box;
+}
+
+.swiper-slide_2 {
+  padding: 27px 62px 26px 137px;
+}
+
+.swiper-slide_3 {
+  padding: 77px 103px 93px 119px;
+}

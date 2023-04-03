@@ -1,0 +1,10 @@
+.swiper-button-next {
+  height: 100%;
+  width: 120px;
+  top: 0;
+  margin: 0;
+}
+
+.swiper-button-next::after {
+  content: '';
+}

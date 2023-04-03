@@ -4,7 +4,7 @@
 
 @import url(../blocks/page/page.css);
 
-@import url(../blocks/header/header.css);
+@import url(../blocks/header/header.css); /*empty*/
 
 @import url(../blocks/header/header__contacts.css);
 @import url(../blocks/header/header__contacts-work.css);
@@ -28,3 +28,20 @@
 @import url(../blocks/header/header__button-icon.css);
 @import url(../blocks/header/header__button-icon-trash.css);
 @import url(../blocks/header/header__button-icon-quantity.css);
+
+@import url(../blocks/button/button.css);
+
+@import url(../blocks/swiper/swiper.css);
+@import url(../blocks/swiper-wrapper/swiper-wrapper.css); /*empty*/
+@import url(../blocks/swiper-slide/swiper-slide.css);
+@import url(../blocks/swiper-slide/swiper-slide__description.css);
+@import url(../blocks/swiper-slide/swiper-slide__title.css);
+@import url(../blocks/swiper-slide/swiper-slide__signature.css);
+@import url(../blocks/swiper-slide/swiper-slide__image-block.css);
+@import url(../blocks/swiper-slide/swiper-slide__image.css); /*empty*/
+@import url(../blocks/swiper-slide/swiper-slide__caption.css);
+@import url(../blocks/swiper-slide/swiper-slide__prom.css);
+
+@import url(../blocks/swiper-pagination/swiper-pagination.css);
+@import url(../blocks/swiper-button-prev/swiper-button-prev.css);
+@import url(../blocks/swiper-button-next/swiper-button-next.css);

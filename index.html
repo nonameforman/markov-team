@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./vendor/swiper/swiper-bundle.min.css" />
     <link rel="stylesheet" href="./pages/index.css" />
     <title>Markov-team</title>
   </head>
@@ -53,6 +54,69 @@
           </div>
         </div>
       </header>
+      <main class="content">
+        <div class="swiper">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="swiper-slide__description">
+                <h2 class="swiper-slide__title">3=2</h2>
+                <p class="swiper-slide__signature">
+                  Закажи три футболки, <br />
+                  а заплати только за две
+                </p>
+                <a class="button" href="#">Перейти в каталог</a>
+              </div>
+              <div class="swiper-slide__image-block">
+                <img
+                  class="swiper-slide__image"
+                  src="./images/promotions/t-shirts.png"
+                  alt="3 футболки" />
+                <p class="swiper-slide__caption">*акция действительна до 03.05.22</p>
+              </div>
+            </div>
+            <div class="swiper-slide swiper-slide_2">
+              <div class="swiper-slide__description">
+                <p class="swiper-slide__signature">
+                  Разработка и пошив командной формы <br />
+                  с индивидуальным <br />
+                  дизайном
+                </p>
+              </div>
+              <div class="swiper-slide__image-block">
+                <img
+                  class="swiper-slide__image"
+                  src="./images/promotions/sets.png"
+                  alt="Виды спортивной формы" />
+              </div>
+            </div>
+            <div class="swiper-slide swiper-slide_3">
+              <div class="swiper-slide__description">
+                <p class="swiper-slide__signature">
+                  Разработка <br />
+                  и производство одежды
+                </p>
+                <p class="swiper-slide__prom">
+                  Предоставляем ĸомплеĸсное решение <br />
+                  по созданию и производству одежды и <br />
+                  фирменного мерча.
+                </p>
+                <a class="button" href="#">Оставить заявку</a>
+              </div>
+              <div class="swiper-slide__image-block">
+                <img
+                  class="swiper-slide__image"
+                  src="./images/promotions/shirt-shorts.png"
+                  alt="Комплект Mora Motion" />
+              </div>
+            </div>
+          </div>
+          <div class="swiper-pagination"></div>
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>
+        </div>
+      </main>
     </div>
+    <script src="./vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="./scripts/index.js"></script>
   </body>
 </html>
