@@ -1,0 +1,5 @@
+.wide-card__el-dot {
+  background-image: url(../../images/icons/dot.svg);
+  width: 15px;
+  height: 15px;
+}

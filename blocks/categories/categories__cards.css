@@ -1,0 +1,8 @@
+.categories__cards {
+  list-style: none;
+  margin: 114px 0 39px 0;
+  padding: 0;
+  display: grid;
+  gap: 38px 30px;
+  grid-template-columns: repeat(3, 544px);
+}

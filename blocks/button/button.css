@@ -10,3 +10,14 @@
   margin: 37px 0 0 0;
   display: inline-block;
 }
+
+.button_wide-card {
+  background: #f2f2f2;
+  font-size: 36px;
+  line-height: 44px;
+  padding: 14px 43px 21px;
+  border-radius: 91px;
+  box-shadow: 2px 4px 27px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 82px;
+  margin: 0;
+}

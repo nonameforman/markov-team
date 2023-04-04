@@ -45,3 +45,22 @@
 @import url(../blocks/swiper-pagination/swiper-pagination.css);
 @import url(../blocks/swiper-button-prev/swiper-button-prev.css);
 @import url(../blocks/swiper-button-next/swiper-button-next.css);
+
+@import url(../blocks/categories/categories.css);
+@import url(../blocks/categories/categories__title.css);
+@import url(../blocks/categories/categories__cards.css);
+@import url(../blocks/categories/categories__card.css);
+@import url(../blocks/categories/categories__card-block.css);
+@import url(../blocks/categories/categories__card-title.css);
+@import url(../blocks/categories/categories__card-captione.css);
+@import url(../blocks/categories/categories__card-image.css);
+
+@import url(../blocks/wide-card/wide-card.css);
+@import url(../blocks/wide-card/wide-card__description.css);
+@import url(../blocks/wide-card/wide-card__title.css);
+@import url(../blocks/wide-card/wide-card__caption.css);
+@import url(../blocks/wide-card/wide-card__list.css);
+@import url(../blocks/wide-card/wide-card__el.css);
+@import url(../blocks/wide-card/wide-card__el-dot.css);
+@import url(../blocks/wide-card/wide-card__el-text.css);
+@import url(../blocks/wide-card/wide-card__image.css);

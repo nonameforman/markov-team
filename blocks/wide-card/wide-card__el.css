@@ -1,0 +1,10 @@
+.wide-card__el {
+  display: flex;
+  align-items: center;
+  gap: 21px;
+  margin: 0 0 14px 0;
+}
+
+.wide-card__el:last-of-type {
+  margin: 0;
+}

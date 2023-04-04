@@ -1,0 +1,10 @@
+.wide-card {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fefefe;
+  box-shadow: 2px 4px 27px rgba(0, 0, 0, 0.25);
+  border-radius: 36px;
+  width: 1692px;
+  padding: 0 56px 22px 131px;
+  box-sizing: border-box;
+}

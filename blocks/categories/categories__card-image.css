@@ -1,0 +1,22 @@
+.categories__card-image {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+  bottom: 5px;
+}
+
+.categories__card-image_3 {
+  bottom: 55px;
+}
+
+.categories__card-image_4 {
+  bottom: 20px;
+}
+
+.categories__card-image_5 {
+  bottom: 44px;
+}
+
+.categories__card-image_6 {
+  bottom: 44px;
+}

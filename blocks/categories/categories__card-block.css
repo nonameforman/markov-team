@@ -1,0 +1,7 @@
+.categories__card-block {
+  display: flex;
+  flex-direction: column;
+  padding: 54px 35px 0;
+  color: #000;
+  text-decoration: none;
+}
