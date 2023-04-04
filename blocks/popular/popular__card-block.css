@@ -1,0 +1,11 @@
+.popular__card-block {
+  background-color: #ffffff;
+  box-shadow: 2px 4px 27px rgba(0, 0, 0, 0.25);
+  border-radius: 36px;
+  width: 544px;
+  height: 613px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

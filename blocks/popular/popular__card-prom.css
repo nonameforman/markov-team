@@ -1,0 +1,16 @@
+.popular__card-prom {
+  background: #eaeaea;
+  border-radius: 53px;
+  font-size: 36px;
+  line-height: 44px;
+  padding: 6px 22px 10px 31px;
+  position: absolute;
+  margin: 0;
+  top: 0;
+  right: 0;
+  margin: 33px 30px 0 0;
+}
+
+.popular__card-prom_2 {
+  margin: 100px 30px 0 0;
+}

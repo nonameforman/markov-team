@@ -64,3 +64,14 @@
 @import url(../blocks/wide-card/wide-card__el-dot.css);
 @import url(../blocks/wide-card/wide-card__el-text.css);
 @import url(../blocks/wide-card/wide-card__image.css);
+
+@import url(../blocks/popular/popular.css);
+@import url(../blocks/popular/popular__title.css);
+@import url(../blocks/popular/popular__cards.css);
+@import url(../blocks/popular/popular__card.css);
+@import url(../blocks/popular/popular__card-block.css);
+@import url(../blocks/popular/popular__card-image.css); /*empty*/
+@import url(../blocks/popular/popular__card-prom.css);
+@import url(../blocks/popular/popular__card-caption.css);
+@import url(../blocks/popular/popular__card-title.css);
+@import url(../blocks/popular/popular__card-price.css);

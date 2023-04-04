@@ -1,0 +1,4 @@
+.popular__card-caption {
+  display: flex;
+  justify-content: space-between;
+}
